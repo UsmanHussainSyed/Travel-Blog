@@ -1,0 +1,6 @@
+media/*
+*.sublime-*
+__pycache__/
+*.pyc
+.env
+django_vue/db.sqlite3

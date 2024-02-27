@@ -1,0 +1,12 @@
+{
+  "name": "travel-test",
+  "version": "1.0.0",
+  "description": "The django has been written, and there is one template for you to fill in to make a one page CRUD application by use of the Django APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
